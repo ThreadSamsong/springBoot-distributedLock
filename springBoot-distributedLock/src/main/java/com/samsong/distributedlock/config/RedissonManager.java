@@ -1,4 +1,4 @@
-package com.samsong.seckill.config;
+package com.samsong.distributedlock.config;
 
 import org.redisson.Redisson;
 import org.redisson.api.RedissonClient;
