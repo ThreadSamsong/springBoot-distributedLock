@@ -1,4 +1,4 @@
-package com.samsong.seckill.distributedlock.redis;
+package com.samsong.distributedlock.distributedlock.redis;
 
 import java.util.concurrent.TimeUnit;
 
