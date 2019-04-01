@@ -1,4 +1,4 @@
-package com.samsong.seckill.distributedlock.zookeeper;
+package com.samsong.distributedlock.distributedlock.zookeeper;
 
 import java.util.concurrent.CountDownLatch;
 
