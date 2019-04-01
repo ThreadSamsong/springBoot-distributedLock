@@ -1,4 +1,4 @@
-package com.samsong.seckill.util;
+package com.samsong.distributedlock.util;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
