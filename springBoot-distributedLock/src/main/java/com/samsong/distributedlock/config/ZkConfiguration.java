@@ -1,4 +1,4 @@
-package com.samsong.seckill.config;
+package com.samsong.distributedlock.config;
 
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.CuratorFrameworkFactory;
